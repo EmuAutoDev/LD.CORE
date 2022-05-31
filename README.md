@@ -14,4 +14,4 @@
 
 ## 相关问题联系我
 ### WeChat： EvDoFun
-### E-mail: EmuAutoDev@pm.me
+### E-mail: ldcore@pm.me
